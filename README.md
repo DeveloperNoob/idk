@@ -39,25 +39,6 @@ Very Sempil Bot Auto Filter bot
 ## DEPLOY ON HEROKU
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Blesson-23/AnnaBen_robot)
 
-#Hard Way
-
-```bash
-# Create virtual environment
-python3 -m venv env
-
-# Activate virtual environment
-env\Scripts\activate.bat # For Windows
-source env/bin/activate # For Linux or MacOS
-
-# Install Packages
-pip3 install -r requirements.txt
-
-# Edit info.py with variables as given below then run bot
-python3 bot.py
-```
-Check [`sample_info.py`](sample_info.py) before editing [`info.py`](info.py) file
-
-## Variables
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -84,13 +65,3 @@ delete - Delete file from database
 index - Index all files from channel.
 logger - Get log file
 ```
-
-## Tips
-* You can use `|` to separate query and file type while searching for specific type of file. For example: `Avengers | video`
-* If you don't want to create a channel or group, use your chat ID / username as the channel ID. When you send a file to a bot, it will be saved in the database.
-
-
-
-## Thanks to 
-* [Pyrogram](https://github.com/pyrogram/pyrogram)
-
