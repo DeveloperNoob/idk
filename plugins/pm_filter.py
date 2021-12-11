@@ -533,7 +533,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Channel', url='https://t.me/Seriesclubgroup'),
             InlineKeyboardButton('Group 2', url='https://t.me/+z-6IGd4rYYtkMDdl')
             ],[
-            InlineKeyboardButton('« Back', callback_data='about'),
+            InlineKeyboardButton('« Back', callback_data='start'),
             InlineKeyboardButton('Close', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
