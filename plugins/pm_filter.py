@@ -459,7 +459,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Connect', callback_data='coct'),
             InlineKeyboardButton('Filters', callback_data='auto_manual')
             ],[
-            InlineKeyboardButton('Gtrans, callback_data='gtrans'),
+            InlineKeyboardButton('Gtrans', callback_data='gtrans'),
             InlineKeyboardButton('Info', callback_data='info'),
             InlineKeyboardButton('Paste', callback_data='paste')
             ],[
@@ -493,7 +493,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('source', callback_data='source')
             ],[
             InlineKeyboardButton('« Back', callback_data='start'),
-            InlineKeyboardButton('Close ✗', callback_data='close_data')
+            InlineKeyboardButton('Close', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
