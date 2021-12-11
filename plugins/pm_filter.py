@@ -441,7 +441,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ', url='http://t.me/Maakri_filter_bot?startgroup=true')
             ],[
             InlineKeyboardButton('Sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/EDIT_REPO')
+            InlineKeyboardButton('Discussion', url='https://t.me/EDIT_REPO')
             ],[
             InlineKeyboardButton('Gʀᴏᴜᴘ & Cʜᴀɴɴᴇʟ Lɪɴᴋs', callback_data='source')
             ],[
