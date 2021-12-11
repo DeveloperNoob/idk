@@ -443,6 +443,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/EDIT_REPO')
             ],[
+            InlineKeyboardButton('Gʀᴏᴜᴘ & Cʜᴀɴɴᴇʟ Lɪɴᴋs', callback_data='source')
+            ],[
             InlineKeyboardButton('Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about')
         ]]
@@ -525,7 +527,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('« Back', callback_data='about')
+            InlineKeyboardButton('Join Our Main Channel', url='https://t.me/Troll_movie_suggestions_CG'),
+            InlineKeyboardButton('Group 1', url='https://t.me/cinemagalaxychat'),
+            InlineKeyboardButton('Channel', url='https://t.me/Seriesclubgroup'),
+            InlineKeyboardButton('Group 3', url='https://t.me/+z-6IGd4rYYtkMDdl')
+            ],[
+            InlineKeyboardButton('« Back', callback_data='about'),
+            InlineKeyboardButton('Close', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
