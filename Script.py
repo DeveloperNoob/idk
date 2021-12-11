@@ -15,7 +15,9 @@ Here Is The Help For My Commands."""
 ⪼ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://heroku.com/'>Hᴇʀᴏᴋᴜ</a>
 ⪼ Bᴜʟʟᴅ Sᴛᴀᴛᴜs: <code>ᴠ1.0.1 [ Bᴇᴛᴀ ]</code></b>"""
 
-    SOURCE_TXT = """If You Want To Get The Requested Movies You Have To Join The Main Channel Given Below.✌️😚✨
+    SOURCE_TXT = """Hey {},
+
+If You Want To Get The Requested Movies You Have To Join The Main Channel Given Below.✌️😚✨
 
 ചോദിക്കുന്ന സിനിമകൾ നിങ്ങൾക്ക് ലഭിക്കണം എന്നുണ്ടെങ്കിൽ നിങ്ങൾ താഴെ കൊടുത്തിട്ടുള്ള Main Channel ജോയിൻ ചെയ്യണം.✌️😚✨"""
 
