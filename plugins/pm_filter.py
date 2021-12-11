@@ -528,9 +528,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "source":
         buttons = [[
             InlineKeyboardButton('Join Our Main Channel', url='https://t.me/Troll_movie_suggestions_CG'),
+            ],[
             InlineKeyboardButton('Group 1', url='https://t.me/cinemagalaxychat'),
             InlineKeyboardButton('Channel', url='https://t.me/Seriesclubgroup'),
-            InlineKeyboardButton('Group 3', url='https://t.me/+z-6IGd4rYYtkMDdl')
+            InlineKeyboardButton('Group 2', url='https://t.me/+z-6IGd4rYYtkMDdl')
             ],[
             InlineKeyboardButton('« Back', callback_data='about'),
             InlineKeyboardButton('Close', callback_data='close_data')
