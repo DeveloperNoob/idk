@@ -1,9 +1,11 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='https://t.me/Dqautofl_bot'>𝐀𝐍𝐍𝐀 𝐁𝐄𝐍</a>, 𝙸𝚝'𝚜 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚢 𝚓𝚞𝚜𝚝 𝚊𝚍𝚍 𝚖𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚖𝚎 𝚊𝚍𝚖𝚒𝚗, 𝚃𝚑𝚊𝚝𝚜 𝚊𝚕𝚕 𝙸'𝚕𝚕 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚖𝚘𝚟𝚒𝚎𝚜 𝚝𝚑𝚎𝚛𝚎 🤓
+    START_TXT = """Hello {},
+
+My Name , <a href='https://t.me/Maakri_filter_bot'>Millie ✨🕊</a>, It's Very Easy Just Add Me To Your Group And Make Me Admin, That's All I'll Provide Movies There 🤓
 """
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
+    HELP_TXT = """Hey {}
+
+Here Is The Help For My Commands."""
     ABOUT_TXT = """
 𝗧𝗛𝗜𝗦 𝗔𝗡𝗡𝗔 𝗕𝗘𝗡'𝗦 𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
