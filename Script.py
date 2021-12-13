@@ -6,7 +6,7 @@ It's Very Easy Just Add Me To Your Group And Make Me Admin, That's All I'll Prov
     HELP_TXT = """Hey {}
 
 Here Is The Help For My Commands."""
-    ABOUT_TXT =  """<b>⪼ Mʏ Nᴀᴍᴇ : <a href='https://t.me/Maakri_filter_bot'>Millie ✨🕊</a>
+    ABOUT_TXT =  """<b>⪼ Mʏ Nᴀᴍᴇ : <a href='https://t.me/Maakri_filter_bot'>Millie ✨</a>
 😇😇😇😇🕊️🕊️🕊️🕊️
 ⪼ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/blesson_3'>Mʀ Mᴀᴋʀɪ</a>
 ⪼ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʀᴏɢʀᴀᴍ</a>
