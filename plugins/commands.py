@@ -44,8 +44,8 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('Gʀᴏᴜᴘ & Cʜᴀɴɴᴇʟ Lɪɴᴋs', callback_data='source')
             ],[
-            InlineKeyboardButton('Hᴇʟᴘ', callback_data='help '),
-            InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about ')
+            InlineKeyboardButton('Hᴇʟᴘ', callback_data='help'),
+            InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_video(
