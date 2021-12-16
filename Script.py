@@ -13,7 +13,7 @@ Here Is The Help For My Commands."""
 ⪼ Dᴀᴛᴀ Bᴀsᴇ: <a href='https://cloud.mongodb.com/'>Mᴏɴɢᴏ Dʙ</a>
 ⪼ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://heroku.com/'>Hᴇʀᴏᴋᴜ</a>
 ⪼ Bᴜʟʟᴅ Sᴛᴀᴛᴜs: <code>ᴠ1.0.1 [ Bᴇᴛᴀ ]</code></b>"""
-𝐓𝐡𝐚𝐭'𝐬 𝐚𝐥𝐥 ❤
+   
 
 
     SOURCE_TXT = """<b>If You Want To Get The Requested Movies You Have To Join The Main Channel Given Below.✌️😚✨
