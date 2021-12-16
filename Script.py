@@ -8,12 +8,13 @@ It's Very Easy Just Add Me To Your Group And Make Me Admin, That's All I'll Prov
 Here Is The Help For My Commands."""
     ABOUT_TXT =  """<b>⪼ Mʏ Nᴀᴍᴇ : <a href='https://t.me/Maakri_filter_bot'>Millie ✨</a>
 ⪼ Dᴇᴠᴇʟᴏᴘᴇʀ1 : <a href='https://t.me/blesson_3'>Mʀ Mᴀᴋʀɪ</a>
-⪼ Dᴇᴠᴇʟᴏᴘᴇʀ 2: <a href='https://t.me/Hacker_Jr'>〖✯〗HᴀᴄKᴇʀ Jʀ 🇮🇳/🇺🇸 </a>
 ⪼ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʀᴏɢʀᴀᴍ</a>
 ⪼ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/'>Pʏᴛʜᴏɴ 3</a>
 ⪼ Dᴀᴛᴀ Bᴀsᴇ: <a href='https://cloud.mongodb.com/'>Mᴏɴɢᴏ Dʙ</a>
 ⪼ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://heroku.com/'>Hᴇʀᴏᴋᴜ</a>
 ⪼ Bᴜʟʟᴅ Sᴛᴀᴛᴜs: <code>ᴠ1.0.1 [ Bᴇᴛᴀ ]</code></b>"""
+𝐓𝐡𝐚𝐭'𝐬 𝐚𝐥𝐥 ❤
+
 
     SOURCE_TXT = """<b>If You Want To Get The Requested Movies You Have To Join The Main Channel Given Below.✌️😚✨
 
