@@ -527,7 +527,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('Join Our Main Channel', url='https://t.me/Troll_movie_suggestions_CG'),
+            InlineKeyboardButton('Join Our Main Channel', url='https://t.me/Netfix_3'),
             ],[
             InlineKeyboardButton('GʀᴏᴜP', url='https://t.me/ADMOVEIAD'),
             InlineKeyboardButton('CʜᴀɴɴɪL', url='https://t.me/Netfix_3'),
