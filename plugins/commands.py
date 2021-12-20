@@ -18,7 +18,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/https://t.me/Cinephile_reviews')
+                InlineKeyboardButton('Movies', url='https://t.me/https://t.me/ADMOVEIAD')
             ],
             [
                 InlineKeyboardButton('𝙷𝙴𝙻𝙿', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -37,10 +37,10 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ 🧨', url='http://t.me/Maakri_filter_bot?startgroup=true')
+            InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕️', url='http://t.me/AD_Movie_Imdb_bot?startgroup=true')
             ],[
             InlineKeyboardButton('Sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Discussion 🎭', url='https://t.me/Cinephile_reviews')
+            InlineKeyboardButton('⛓️ SᴜᴘᴘᴏT ⛓️', url='https://t.me/AD_BOTZ')
             ],[
             InlineKeyboardButton('Gʀᴏᴜᴘ & Cʜᴀɴɴᴇʟ Lɪɴᴋs', callback_data='source')
             ],[
@@ -83,7 +83,7 @@ async def start(client, message):
             InlineKeyboardButton('Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ☺️', url='http://t.me/Maakri_filter_bot?startgroup=true')
             ],[
             InlineKeyboardButton('Sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Discussion', url='https://t.me/Cinephile_reviews')
+            InlineKeyboardButton('SᴜᴘᴘᴏʀT', url='https://t.me/AD_BOTZ')
             ],[
             InlineKeyboardButton('Gʀᴏᴜᴘ & Cʜᴀɴɴᴇʟ Lɪɴᴋs', callback_data='source')
             ],[
